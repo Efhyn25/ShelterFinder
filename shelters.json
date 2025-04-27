@@ -1,0 +1,134 @@
+{
+  "shelters": {
+    "families_and_children": [
+      {
+        "id": 1,
+        "name": "CityTeam - Heritage Home",
+        "address": "San Jose, CA",
+        "phone": "408-294-1238",
+        "available_beds": 5,
+        "total_beds": 20,
+        "referral_required": false
+      },
+      {
+        "id": 2,
+        "name": "CityTeam - House of Grace",
+        "address": "San Jose, CA",
+        "phone": "408-885-8080",
+        "available_beds": 7,
+        "total_beds": 15,
+        "referral_required": false
+      },
+      {
+        "id": 3,
+        "name": "Family Supportive Housing",
+        "address": "692 N. King Rd, San Jose, CA 95133",
+        "phone": "408-926-8885",
+        "available_beds": 10,
+        "total_beds": 25,
+        "referral_required": false
+      },
+      {
+        "id": 4,
+        "name": "LifeMoves - Georgia Travis House",
+        "address": "260 Commercial St, San Jose, CA 95112",
+        "phone": "408-271-1630",
+        "available_beds": 9,
+        "total_beds": 30,
+        "referral_required": true
+      },
+      {
+        "id": 5,
+        "name": "LifeMoves - Villa",
+        "address": "184 South 11th St, San Jose, CA 95123",
+        "phone": "408-271-0685",
+        "available_beds": 12,
+        "total_beds": 40,
+        "referral_required": true
+      },
+      {
+        "id": 6,
+        "name": "LifeMoves - Motel Voucher Program",
+        "address": "Santa Clara County (mobile)",
+        "phone": "669-238-6193",
+        "available_beds": 6,
+        "total_beds": 30,
+        "referral_required": true
+      },
+      {
+        "id": 7,
+        "name": "Amigos de Guadalupe Safe Park Program",
+        "address": "San Jose, CA",
+        "phone": "408-341-6080",
+        "available_beds": 10,
+        "total_beds": 25,
+        "referral_required": true
+      }
+    ],
+    "single_individuals": [
+      {
+        "id": 8,
+        "name": "CityTeam - Men's Shelter",
+        "address": "1174 Old Bayshore Hwy, San Jose, CA",
+        "phone": "408-288-2153",
+        "available_beds": 8,
+        "total_beds": 25,
+        "referral_required": false
+      },
+      {
+        "id": 9,
+        "name": "HomeFirst - Boccardo Reception Center (BRC)",
+        "address": "2011 Little Orchard St, San Jose, CA 95125",
+        "phone": "408-294-2100",
+        "available_beds": 15,
+        "total_beds": 60,
+        "referral_required": false
+      },
+      {
+        "id": 10,
+        "name": "HomeFirst - Emergency Interim Housing",
+        "address": "San Jose, CA",
+        "phone": null,
+        "available_beds": 20,
+        "total_beds": 40,
+        "referral_required": true
+      },
+      {
+        "id": 11,
+        "name": "LifeMoves - Montgomery Street Inn",
+        "address": "358 N. Montgomery St, San Jose, CA 95110",
+        "phone": "408-271-5160",
+        "available_beds": 11,
+        "total_beds": 50,
+        "referral_required": false
+      },
+      {
+        "id": 12,
+        "name": "LifeMoves - Julian Street Inn",
+        "address": "546 W. Julian St, San Jose, CA 95110",
+        "phone": "408-271-0820",
+        "available_beds": 12,
+        "total_beds": 45,
+        "referral_required": false
+      },
+      {
+        "id": 13,
+        "name": "LifeMoves - New Haven",
+        "address": "San Jose, CA",
+        "phone": null,
+        "available_beds": 8,
+        "total_beds": 25,
+        "referral_required": true
+      },
+      {
+        "id": 14,
+        "name": "Salvation Army - Emmanuel House",
+        "address": "405 N 4th St, San Jose, CA 95112",
+        "phone": "408-282-1175",
+        "available_beds": 18,
+        "total_beds": 50,
+        "referral_required": false
+      }
+    ]
+  }
+}

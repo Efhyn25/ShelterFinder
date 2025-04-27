@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bill Wilson Center Drop-in Center",
+    "address": "693 South 2nd Street, San Jose, CA 95112",
+    "phone": "408-925-0231",
+    "service_type": "Drop-in Day Services",
+    "services_offered": "Showers, laundry, food, job readiness, mental health counseling"
+  },
+  {
+    "id": 2,
+    "name": "PATH (People Assisting The Homeless)",
+    "address": "Downtown San Jose (mobile outreach)",
+    "phone": "408-753-8735",
+    "service_type": "Street Outreach",
+    "services_offered": "Street outreach, clinical case management, housing assistance"
+  },
+  {
+    "id": 3,
+    "name": "Homelessness Prevention System",
+    "address": "Santa Clara County",
+    "phone": "408-926-8885",
+    "service_type": "Rental Assistance",
+    "services_offered": "Rental help for low-income residents"
+  },
+  {
+    "id": 4,
+    "name": "Second Harvest Food Bank",
+    "address": "750 Curtner Ave. San Jose, CA 95125",
+    "phone": "408-266-8866",
+    "service_type": "Food Distribution",
+    "services_offered": "Free groceries and meals"
+  },
+  {
+    "id": 5,
+    "name": "YWCA Silicon Valley",
+    "address": "375 S. Third Street, San Jose, CA 95112",
+    "phone": "408-295-4011",
+    "service_type": "Domestic Violence Services",
+    "services_offered": "Emergency shelter, legal services, support services"
+  },
+  {
+    "id": 6,
+    "name": "Gardner Health Services - Healthcare for the Homeless",
+    "address": "2101 Alexian Dr., San Jose, CA 95116",
+    "phone": "408-935-3908",
+    "service_type": "Healthcare Services",
+    "services_offered": "Primary care, mental health, substance use treatment"
+  }
+]
